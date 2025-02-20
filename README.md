@@ -1,6 +1,6 @@
 # Python Projects Collection
 
-This repository contains various Python projects categorized into different sections for easy navigation.
+A curated list of Python projects with source code and tutorials. This repository contains categorized Python projects that cover various domains, including image processing, games, utilities, and more. Each project includes a tutorial to help you understand the implementation and improve your coding skills.
 
 ## 🏢 Management System Projects
 - [Bank Management System Using Python Django](https://codewithcurious.com/projects/bank-management-system-using-python-django/)
