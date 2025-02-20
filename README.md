@@ -16,6 +16,23 @@ A curated list of Python projects with source code and tutorials. This repositor
 - [Hospital Management Using Python](https://codewithcurious.com/projects/hospital-management-using-python/)
 - [Restaurant Billing System Using Python](https://codewithcurious.com/projects/restaurant-billing-system-using-python/)
 
+## 💰 Exclusive Discounts on Coding Courses  
+
+| Platform       | Discount Offer | Link |
+|---------------|---------------|------|
+| GeeksforGeeks | 35% OFF       | [GeeksforGeeks](https://codewithcurious.com/geeksforgeeks-coupons-code/) |
+| Coding Ninjas | 10% OFF       | [Coding Ninjas](https://codewithcurious.com/blogs/codingninjas-coupon-codes/) |
+| KodeKloud     | 60% OFF       | [KodeKloud](https://codewithcurious.com/kodekloud-coupon-code/) |
+| SkillShare    | 50% OFF       | [SkillShare](https://codewithcurious.com/skillshare-coupon-code/) |
+| Educative     | 50% OFF       | [Educative](https://codewithcurious.com/educative-coupon-code/) |
+| W3Schools    | 20% OFF       | [W3Schools](https://codewithcurious.com/w3school-discount-code/) |
+| EDX          | 30% OFF       | [EDX](https://codewithcurious.com/edx-coupon-code/) |
+| DataCamp     | 50% OFF       | [DataCamp](https://codewithcurious.com/datacamp-coupon-codes/) |
+| Target Test Prep | 30% OFF  | [Target Test Prep](https://codewithcurious.com/target-test-prep-discount-code/) |
+
+💡 **Save big on top coding platforms with these exclusive discounts!**
+
+
 ## 🎮 Python Games
 - [KBC Game Using Python](https://codewithcurious.com/projects/kbc-game-using-python-source-code/)
 - [21 Number Game Using Python](https://codewithcurious.com/projects/21-number-game-using-python/)
